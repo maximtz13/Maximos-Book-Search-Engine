@@ -1,5 +1,6 @@
 {
   "name": "server",
+  "homepage": "https://maximtz13.github.io/Maximos-Book-Search-Engine/",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
